@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nextcloud, Sports, Management
 - 🌱 I’m currently learning: nothing
 - 💞️ I’m looking to collaborate on Nextcloud
-- 📫 How to reach me: PHP
+- 📫 How to reach me:
 
 <!---
 nudgenudge-oli/nudgenudge-oli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
